@@ -19,7 +19,7 @@
   
 ### 🌟 **TemaOS 3.5** - Операционная система для ESP32
   
-[![TemaOS](https://img.shields.io/badge/TemaOS-3.0-FF6B6B?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://tema-os-arcade-esp32.lovable.app)
+[![TemaOS](https://img.shields.io/badge/TemaOS-3.5-FF6B6B?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://tema-os-arcade-esp32.lovable.app)
 [![ESP32](https://img.shields.io/badge/ESP32-Compatible-4CAF50?style=for-the-badge&logo=espressif&logoColor=white)](https://tema-os-arcade-esp32.lovable.app)
 [![Status](https://img.shields.io/badge/Status-В_разработке-FFA726?style=for-the-badge&logo=construction&logoColor=white)](https://tema-os-arcade-esp32.lovable.app)
 
