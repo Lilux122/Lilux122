@@ -3,7 +3,7 @@
   
   # 👋 Привет, я Тёма (Lilux)
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Разработчик+операционных+систем+для+ESP32;Создатель+игр+и+энтузиast+электроники;Работаю+над+TemaOS+3.0!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Разработчик+операционных+систем+для+ESP32;Создатель+игр+и+энтузиast+электроники;Работаю+над+TemaOS+3.5!" alt="Typing SVG" />
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Lilux122&color=blueviolet&style=for-the-badge&label=Просмотры+профиля" alt="Просмотры профиля" />
@@ -17,7 +17,7 @@
 
 <div align="center">
   
-### 🌟 **TemaOS 3.0** - Операционная система для ESP32
+### 🌟 **TemaOS 3.5** - Операционная система для ESP32
   
 [![TemaOS](https://img.shields.io/badge/TemaOS-3.0-FF6B6B?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://tema-os-arcade-esp32.lovable.app)
 [![ESP32](https://img.shields.io/badge/ESP32-Compatible-4CAF50?style=for-the-badge&logo=espressif&logoColor=white)](https://tema-os-arcade-esp32.lovable.app)
@@ -94,9 +94,8 @@
 
 | Проект | Описание | Технологии | Статус |
 |--------|----------|------------|---------|
-| 🖥️ **TemaOS 3.0** | Операционная система для ESP32 с аркадными функциями | ESP32, C++, Arduino | 🔨 В разработке |
-| 🎮 **Arcade Games** | Коллекция ретро-игр для TemaOS | C++, Graphics Library | 📝 Планируется |
-| 📱 **Mobile Companion** | Мобильное приложение для управления TemaOS | React Native, Bluetooth | 💡 Идея |
+| 🖥️ **TemaOS 3.5** | Операционная система для ESP32 с аркадными функциями | ESP32, C++, Arduino | 🔨 В разработке |
+| 🎮 **Побег от Некстотов** | Игра для телефонов | На подобии Garrys Mod | 📝 Планируется |
 
 </div>
 
