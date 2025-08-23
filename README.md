@@ -3,7 +3,7 @@
   
   # 👋 Привет, я Тёма (Lilux)
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Разработчик+операционных+систем+для+ESP32;Создатель+игр+и+энтузиast+электроники;Работаю+над+TemaOS+3.5!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Разработчик+операционных+систем+для+ESP32;Создатель+игр+и+энтузиast+электроники;ВЫШЛА+TemaOS+3.5!" alt="Typing SVG" />
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Lilux122&color=blueviolet&style=for-the-badge&label=Просмотры+профиля" alt="Просмотры профиля" />
@@ -19,9 +19,9 @@
   
 ### 🌟 **TemaOS 3.5** - Операционная система для ESP32
   
-[![TemaOS](https://img.shields.io/badge/TemaOS-3.5-FF6B6B?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://tema-os-arcade-esp32.lovable.app)
-[![ESP32](https://img.shields.io/badge/ESP32-Compatible-4CAF50?style=for-the-badge&logo=espressif&logoColor=white)](https://tema-os-arcade-esp32.lovable.app)
-[![Status](https://img.shields.io/badge/Status-В_разработке-FFA726?style=for-the-badge&logo=construction&logoColor=white)](https://tema-os-arcade-esp32.lovable.app)
+[![TemaOS](https://img.shields.io/badge/TemaOS-3.5-FF6B6B?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://github.com/Lilux122/Temaos3.0.git)
+[![ESP32](https://img.shields.io/badge/ESP32-Compatible-4CAF50?style=for-the-badge&logo=espressif&logoColor=white)](https://github.com/Lilux122/Temaos3.0.git)
+[![Status](https://img.shields.io/badge/Status-В_разработке-FFA726?style=for-the-badge&logo=construction&logoColor=white)](https://github.com/Lilux122/Temaos3.0.git)
 
 🎮 **Особенности TemaOS:**
 - 🕹️ Встроенная аркадная система
@@ -29,7 +29,7 @@
 - 📱 Современный пользовательский интерфейс
 - ⚡ Оптимизация под ESP32
 
-[🌐 **Посетить TemaOS →**](https://tema-os-arcade-esp32.lovable.app)
+[🌐 **Посетить TemaOS →**](https://github.com/Lilux122/Temaos3.0.git)
 
 </div>
 
@@ -123,7 +123,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lilux122)
-[![TemaOS Demo](https://img.shields.io/badge/TemaOS_Demo-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://tema-os-arcade-esp32.lovable.app)
+[![TemaOS Demo](https://img.shields.io/badge/TemaOS_Demo-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://github.com/Lilux122/Temaos3.0.git)
 
 **📧 Открыт для сотрудничества в области:**
 - 🤖 Embedded системы и IoT
